@@ -32,3 +32,14 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karsharma10&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
 
+
+
+
+
+---
+<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center">
+https://www.creative-tim.com
+</p>
+
+
