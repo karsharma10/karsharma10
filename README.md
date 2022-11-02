@@ -33,7 +33,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 | BluePrint | Period of work (06/2022 - Present) |
 |:---------:|:----------------------------------:|
-| Full-Stack Dev | Working with NGO to connect outdoor users with outdoor NGOS |
+| Full-Stack Dev | Working with a NGO to connect outdoor users with outdoor NGOS |
 
 
 
