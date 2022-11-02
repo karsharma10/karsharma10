@@ -6,7 +6,7 @@ Hi there ✋!
 I am a junior with interest in Computer Science, Finance & Business. Multicultural background with education in the US & India. I'm a motivated, ethical, self-learner & always have my employer’s interest in focus. Currently working towards a BS in Computer Science, masters in Computer Science, whilst achieving a Quantitative Finance Certificate.
 
 
-#Programming Languages
+# Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
