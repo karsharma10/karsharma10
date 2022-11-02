@@ -25,10 +25,15 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 </p>
 
 
-# My Projects:
+# My Cureent Work Experience
 
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=IshanGProjects&repo=The-Old-Fashioned-Way&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+| LASP | Period of work (05/2021 - Present) |
+|:---------:|:----------------------------------:|
+| Research Intern | Automaed tedious business analyst process |
 
+| BluePrint | Period of work (06/2022 - Present) |
+|:---------:|:----------------------------------:|
+| Full-Stack Dev | Working with NGO to connect outdoor users with outdoor NGOS |
 
 
 
