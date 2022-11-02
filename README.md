@@ -37,7 +37,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 
 ---
-<p align="center"> © 2022 Kartik Sharma, all rights reserved. </p>
+<p align="center"> © 2022 Kartik Sharma, Thank you for vieing my Profile. Have a Wonderful Day ;). </p>
 <p align="center">
 </p>
 
