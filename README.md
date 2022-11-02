@@ -37,9 +37,8 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 
 ---
-<p align="center"> © 2021 Creative Tim, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2022 Kartik Sharma, all rights reserved. </p>
 <p align="center">
-https://www.creative-tim.com
 </p>
 
 
