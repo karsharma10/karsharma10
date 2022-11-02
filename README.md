@@ -29,7 +29,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 | LASP | Period of work (05/2021 - Present) |
 |:---------:|:----------------------------------:|
-| Research Intern | Automaed tedious business analyst process |
+| Research Intern | Automaed tedious business analyst process that sourced projects for millions of dollars using python.|
 
 | BluePrint | Period of work (06/2022 - Present) |
 |:---------:|:----------------------------------:|
