@@ -25,7 +25,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 </p>
 
 
-# My Cureent Work Experience
+# My Current Jobs:
 
 | LASP | Period of work (05/2021 - Present) |
 |:---------:|:----------------------------------:|
