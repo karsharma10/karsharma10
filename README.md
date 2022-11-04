@@ -15,6 +15,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+ <img alt="MIPS Assembly" src="https://camo.githubusercontent.com/3300e46f3639e9d6a1fa0649970ebc282ed2a4ed2ff39ec2613d4286a561fa59/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f417373656d626c792d3532353235322e7376673f6c6f676f3d61736d2d686578266c6f676f436f6c6f723d7768697465" data-canonical-src="https://custom-icon-badges.demolab.com/badge/Assembly-525252.svg?logo=asm-hex&amp;logoColor=white" style="max-width: 100%;">
 </p>
 
 # Databases:
