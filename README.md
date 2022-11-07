@@ -46,12 +46,6 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 
 
-
-#test:
-
-<img width="282" src="[https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=REPO_NAME](https://github.com/IshanGProjects/The-Old-Fashioned-Way)&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-
-
 ---
 <p align="center"> © 2022 Kartik Sharma. Thank you for viewing my Profile. Have a Wonderful Day 😀. </p>
 <p align="center">
