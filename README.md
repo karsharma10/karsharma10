@@ -44,7 +44,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karsharma10&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsharma10&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karsharma10&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align="center"> © 2022 Kartik Sharma. Thank you for viewing my Profile. Have a Wonderful Day 😀. </p>
