@@ -44,7 +44,7 @@ I am a junior with interest in Computer Science, Finance & Business. Multicultur
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=karsharma10&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
 
-<img src="https://camo.githubusercontent.com/d555728ea8c07254a32b50814d6f5a6dd901caaaa7293a41217e96487e9f40af/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d343034616e737765726e6f74666f756e64267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d66616c7365266c61796f75743d636f6d70616374" alt="" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsharma10&amp;theme=midnight-purple&amp;hide_border=true&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" style="max-width: 100%;">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <p align="center"> © 2022 Kartik Sharma. Thank you for viewing my Profile. Have a Wonderful Day 😀. </p>
