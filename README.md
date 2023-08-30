@@ -34,12 +34,7 @@
 
 | LASP | Period of work (05/2021 - Present) |
 |:---------:|:----------------------------------:|
-| Research Intern | Automated tedious business analyst process that sourced projects for millions of dollars using python.|
-
-| BluePrint | Period of work (06/2022 - Present) |
-|:---------:|:----------------------------------:|
-| Full-Stack Dev | Working with a NGO to connect outdoor users with outdoor NGOS |
-
+| Data Science Intern | Automated tedious business analyst process that sourced projects for millions of dollars using Python, Apache Airflow, Docker Containers.|
 
 
 # My Contributions:
