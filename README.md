@@ -38,9 +38,9 @@
 | Data Science Intern | Automated tedious business analyst process that sourced projects for millions of dollars using Python, Apache Airflow, Docker Containers.|
 
 # My Current Projects:
-| Lockheed Martin Sponsored Machine Learning Project | Period of work (09/2023 - Present) |
+| Lockheed Martin Sponsored Machine Learning Project | Working on a sponsored project to develop a deep learning framework that can detect the onset of interface degradation in solid-state batteries through their associated electrochemical signatures to enhance the reliability and safety of SSBs for long lunar missions |
 |:---------:|:----------------------------------:|
-| Machine Learning Project | Working on a sponsored project to develop a deep learning framework that can detect the onset of interface degradation in solid-state batteries through their associated electrochemical signatures to enhance the reliability and safety of SSBs for long lunar missions|
+
 
 # My Contributions:
 
