@@ -42,7 +42,7 @@
 |:---------:|:----------------------------------:|
 
 
-| Constructing a Financial Markets Application | Currently working on a project to make a financial markets application to view stocks financial data using Polygon API and using ChatGPT API to have a customized Chatbot to allow the user to ask questions about complex financial statistics. |
+| Constructing a Financial Markets Application | Currently working on a project to make a financial markets application to view stocks' financial data using Polygon API and ChatGPT API to have a customized Chatbot to allow the user to ask questions about complex financial statistics. |
 |:---------:|:----------------------------------:|
 
 
