@@ -42,6 +42,10 @@
 |:---------:|:----------------------------------:|
 
 
+| Constructing a Financial Markets Application | Currently working on a project to make a financial markets application to view stocks financial data using Polygon API and using ChatGPT API to have a customized Chatbot to allow the user to ask questions about complex financial statistics. |
+|:---------:|:----------------------------------:|
+
+
 # My Contributions:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=karsharma10&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
