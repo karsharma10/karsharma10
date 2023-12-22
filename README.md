@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,scala,java)](https://skillicons.dev)
 
 # Frameworks and Databases:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb,postgres)](https://skillicons.dev)
 
 
 
