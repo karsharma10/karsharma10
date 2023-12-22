@@ -15,7 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,scala,java)](https://skillicons.dev)
 
 # Frameworks:
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs)](https://skillicons.dev)
 
 
 
