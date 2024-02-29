@@ -3,11 +3,6 @@
 
 👋 Hello, I'm Kartik Sharma, a Senior at the University of Colorado, Boulder, passionate about the intersections of Computer Science, Finance, and Business. My diverse background spans education in both the US and India, nurturing a multicultural perspective.
 
-💡 Driven by an unwavering commitment to excellence, I'm a motivated, ethical self-learner with an enduring focus on success.
-
-📚 Currently, I'm pursuing a BS in Computer Science and actively pursuing a Quantitative Finance Certificate. This multi-faceted journey reflects my dedication to continuous learning and skill development.
-
-🌍 Join me on this exciting path where technology, finance, and business converge, and explore my projects and insights as I carve my way in the ever-evolving landscape of knowledge and innovation.
 
 
 # Programming Languages:
