@@ -18,7 +18,7 @@
 
 | LASP | Period of work (05/2021 - Present) |
 |:---------:|:----------------------------------:|
-| Data Science Intern | Automated tedious business analyst process that sourced projects for millions of dollars using Python, Apache Airflow, Docker Containers, and Selenium. Currently utilizing the Salesforce platform to automate employee uploading information.|
+| Data Science | Automated tedious business analyst process that sourced projects for millions of dollars using Python, Apache Airflow, Docker Containers, and Selenium. Currently utilizing the Salesforce platform to automate employee uploading information.|
 
 # My Current Projects:
 | Lockheed Martin Sponsored Machine Learning Project | Working on a sponsored project to develop a deep learning framework that can detect the onset of interface degradation in solid-state batteries through their associated electrochemical signatures to enhance the reliability and safety of SSBs for long lunar missions |
