@@ -14,20 +14,6 @@
 
 
 
-# My Current Job:
-
-| LASP | Period of work (05/2021 - Present) |
-|:---------:|:----------------------------------:|
-| Data Scientist I| Automated tedious business analyst process that sourced projects for millions of dollars using Python, Apache Airflow, Docker Containers, and Selenium. Currently utilizing the Salesforce platform to automate employee uploading information.|
-
-# My Current Projects:
-| Lockheed Martin Sponsored Machine Learning Project | Working on a sponsored project to develop a deep learning framework that can detect the onset of interface degradation in solid-state batteries through their associated electrochemical signatures to enhance the reliability and safety of SSBs for long lunar missions |
-|:---------:|:----------------------------------:|
-
-
-| Constructing a Financial Markets Application | Currently working on a project to make a financial markets application to view stocks' financial data using Polygon API and ChatGPT API to have a customized Chatbot to allow the user to ask questions about complex financial statistics. |
-|:---------:|:----------------------------------:|
-
 
 # My Contributions:
 
