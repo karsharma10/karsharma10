@@ -7,7 +7,7 @@
 
 # Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,py,cpp,scala,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,js,ts,html,css,py,cpp,scala,java)](https://skillicons.dev)
 
 # Frameworks, Databases, Networks:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb,postgres,aws,docker,dotnet,express,firebase,nextjs,redis,kubernetes,angular,azure,django,flask,graphql,kafka,pytorch)](https://skillicons.dev)
