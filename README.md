@@ -1,7 +1,7 @@
 # Kartik Sharma's Profile
 
 
-👋 Hello, I'm Kartik Sharma, a Senior at the University of Colorado, Boulder, passionate about the intersections of Computer Science, Finance, and Business. My diverse background spans education in both the US and India, nurturing a multicultural perspective.
+👋 Hello, I'm Kartik Sharma. As a technology enthusiast, I am dedicated to exploring the vast landscape of technology and am committed to continuous learning and skill enhancement. My journey has been enriched by a diverse and multicultural educational experience, spanning both the US and India, which has shaped my perspective and approach to problem-solving. Driven by core principles and an unwavering commitment to self-improvement, I strive to contribute meaningfully to projects and teams I am a part of, leveraging my unique background to foster innovation and excellence.
 
 
 
