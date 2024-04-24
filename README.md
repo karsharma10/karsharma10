@@ -13,6 +13,9 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb,postgres,aws,docker,dotnet,express,firebase,nextjs,redis,kubernetes,angular,azure,django,flask,graphql,kafka,pytorch)](https://skillicons.dev)
 
 
+# My Resume:
+[Kartik's Resume (M).pdf](https://github.com/karsharma10/karsharma10/files/15098953/Kartik.s.Resume.M.pdf)
+
 
 
 # My Contributions:
