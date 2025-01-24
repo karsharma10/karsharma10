@@ -11,16 +11,10 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Hello!+%F0%9F%99%8F,+I'm+Kartik+Sharma!;Software+Engineer;Machine+Learning+Engineer;;AI+Engineer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Hello!+I'm+Kartik+Sharma!;Software+Engineer;Machine+Learning+Engineer;;AI+Engineer;Open+Source+Enthusiast" />
 </div>
 
 <br />
-
-<!-- Fun header GIF (Optional) -->
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200"/>
-</div>
-
 ---
 
 ### :sparkles: Languages & Tools
