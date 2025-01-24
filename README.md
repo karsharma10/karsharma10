@@ -11,7 +11,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F,+I'm+Kartik+Sharma!;Software+Engineer;Open+Source+Enthusiast;Always+Learning+New+Stuff" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F,+I'm+Kartik+Sharma!;Software+Engineer;Machine+Learning+Engineer;;AI+Engineer;Open+Source+Enthusiast" />
 </div>
 
 <br />
@@ -20,14 +20,6 @@
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200"/>
 </div>
-
----
-
-### :wave: About Me
-- 👋 Hello, I'm **Kartik Sharma**! Hope you are well. Thanks for viewing my GitHub profile.
-- :rocket: Passionate **Software Engineer**, **Full Stack Developer**, and **Cloud Enthusiast**.
-- :star2: **I love solving problems**, building robust applications, and contributing to open-source projects.
-- :zap: I continuously explore new technologies to expand my knowledge.
 
 ---
 
