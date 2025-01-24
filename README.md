@@ -11,7 +11,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Namaste+%F0%9F%99%8F,+I'm+Kartik+Sharma!;Software+Engineer;Machine+Learning+Engineer;;AI+Engineer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2370c7ff&size=30&center=true&vCenter=true&width=600&lines=Hello!+%F0%9F%99%8F,+I'm+Kartik+Sharma!;Software+Engineer;Machine+Learning+Engineer;;AI+Engineer;Open+Source+Enthusiast" />
 </div>
 
 <br />
