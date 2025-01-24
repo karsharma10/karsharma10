@@ -8,3 +8,7 @@
                                                                     
 -->
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=1EE6E4&center=true&vCenter=true&multiline=true&width=600&lines=Hello+there!+I'm+Kartik+Sharma;Welcome+to+my+GitHub+Profile!;Happy+Coding+%F0%9F%8E%89" alt="Typing SVG" />
+</p>
