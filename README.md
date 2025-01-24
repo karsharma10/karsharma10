@@ -1,99 +1,71 @@
-<!--
-  ____  _        _   _   _      _____ _                            
- |  _ \(_)      | | | | | |    / ____| |                           
- | |_) |_  ___  | |_| |_| | ___| (___ | | ___  _ __ ___   ___ _ __ 
- |  _ <| |/ _ \ | __| __| |/ _ \\___ \| |/ _ \| '_ ` _ \ / _ \ '__|
- | |_) | |  __/ | |_| |_| |  __/____) | | (_) | | | | | |  __/ |   
- |____/|_|\___|  \__|\__|_|\___|_____/|_|\___/|_| |_| |_|\___|_|   
+<!-- 
+   ___       __   __        __            
+  / (_)___  / /__/ /__     / /___ _____  __
+ / / / __ \/ //_/ / _ \   / / __ `/ __ \/ /
+/ / / /_/ / ,< / /  __/  / / /_/ / / / / / 
+/_/_/\____/_/|_/_/\___/  /_/\__,_/_/ /_/_/  
+                                          
+             Kartik Sharma
+-->
 
-                                                                    
+<!-- Optional: You can place a banner image or a GIF at the top to be artsy
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/username/master/banner.gif" alt="banner"/>
+</p>
 -->
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=1EE6E4&center=true&vCenter=true&multiline=true&width=600&lines=Hello+there!+I'm+Kartik+Sharma;Welcome+to+my+GitHub+Profile!;Happy+Coding+%F0%9F%8E%89" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=karsharma10&style=flat-square&color=blue" alt=""/>
 </p>
 
-<h2 align="center">About Me</h2>
+# Hi there, I'm Kartik Sharma <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-<p align="center">
-  I'm <strong>Kartik Sharma</strong>, a passionate software developer with a keen interest in system design, 
-  distributed architectures, and high-performance applications. I love blending creativity and technology 
-  to build solutions that can make a difference in people’s lives.
-</p>
+> **_“A journey of a thousand lines of code begins with a single `Hello World`.”_**
 
-<hr />
+I hope you’re doing well! Thanks for viewing my GitHub profile. Here you’ll find my experiments with various technologies, contributions to open-source projects, and more.
 
-<!-- Badges example (visitor count, profile views, etc.) -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karsharma10&label=Profile%20views&color=blueviolet" alt="Profile Views" /> 
-  <img src="https://img.shields.io/badge/Focus-Microservices%20|%20Cloud%20DevOps-brightgreen" alt="Focus Badge" />
-  <img src="https://img.shields.io/badge/Ask%20me%20about-Golang%20|%20React-blue" alt="Ask Me About Badge" />
-</p>
-
-<!-- Optionally, add an inspirational quote about art and technology -->
-<p align="center">
-  <em>
-  “Everything you can imagine is real.” - Pablo Picasso <br/>
-  Let’s turn imagination into reality through <strong>code!</strong>
-  </em>
-</p>
+## 🔭 About Me
+- 🌱 I’m currently exploring **Cloud-Native** applications and **Machine Learning**.
+- 🧠 Always learning something new — from **DevOps** to **Data Engineering**.
+- ✨ Fun fact: I love exploring the synergy between **creativity** and **technology**.
 
 ---
 
-## 🚀 Tech & Tools
+## ⚙️ Tech Stack
 
-### Programming Languages
+### Languages
 [![My Skills](https://skillicons.dev/icons?i=go,js,ts,html,css,py,cpp,scala,java)](https://skillicons.dev)
 
-### Frameworks, Databases & More
+### Frameworks, Databases & Others
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,spring,mysql,mongodb,postgres,aws,docker,dotnet,express,firebase,nextjs,redis,kubernetes,angular,azure,django,flask,graphql,kafka,pytorch)](https://skillicons.dev)
 
 ---
 
-## ⚙️ GitHub Analytics
-
+## 🌟 GitHub Trophies
 <p align="center">
-  <!-- GitHub Readme Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=karsharma10&show_icons=true&theme=cobalt&count_private=true" alt="GitHub Stats"/>
-  
-  <!-- Top Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsharma10&layout=compact&theme=cobalt" alt="Top Languages"/>
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=karsharma10&theme=darkhub&no-frame=true&row=1&column=6" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=karsharma10&theme=onedark&margin-w=15&margin-h=15" alt="github trophies"/>
 </p>
 
 ---
 
-<!-- Optionally, you can add a 'Snake' animation of your contributions
-     (requires a GitHub Action setup). For reference:
-     https://github.com/Platane/snk -->
-
-<!--
-![snake gif](https://github.com/karsharma10/karsharma10/blob/output/github-contribution-grid-snake.gif)
--->
-
-<h2 align="center">Connect with Me</h2>
+## 📊 GitHub Stats
 <p align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInHere/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YourEmailHere@domain.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <!-- Add any other social or personal website badges -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karsharma10&show_icons=true&theme=cobalt" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karsharma10&layout=compact&theme=cobalt" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karsharma10&theme=cobalt" height="165" />
 </p>
 
 ---
 
-<p align="center">
-  © 2022 Kartik Sharma — Thank you for visiting my Profile. 
-</p>
-<p align="center">
-  <em>Wishing you an amazing day! ✨</em>
-</p>
+## 💬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram/)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/your-devto/)
+
+> If you liked my profile, feel free to star ⭐ some repositories. Every bit of support helps!
+
+<p align="center"> © 2023 Kartik Sharma. Thank you for viewing my profile! Have a wonderful day 😀.</p>
